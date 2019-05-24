@@ -1,0 +1,27 @@
+{
+  "name": "17.1",
+  "version": "1.0.0",
+  "description": "Kodilla tasks 17.2-17.3 - ExpressJS routing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arti-zachara/17.1-ExpressJS.git"
+  },
+  "keywords": [
+    "ExpressJS",
+    "routing",
+    "learning"
+  ],
+  "author": "arti Zachara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arti-zachara/17.1-ExpressJS/issues"
+  },
+  "homepage": "https://github.com/arti-zachara/17.1-ExpressJS#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
