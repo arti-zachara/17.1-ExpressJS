@@ -1,27 +1,13 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@arti-zachara 
-0
-0 0 krollukasz/19.4_ES6_Introduction
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-19.4_ES6_Introduction/.gitignore
-@krollukasz krollukasz Add .gitignore file
-392624f on 12 Feb
-87 lines (61 sloc)  1.16 KB
-    
 # Logs
 logs
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+lerna-debug.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # Runtime data
 pids
@@ -96,21 +82,3 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
-
-#Images
-images/
-
-#Vendor
-vendor/
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
